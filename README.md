@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning DataScientist //to gain an exposure in Data field
 - 💞️ I’m not looking for any collaboration for now
 - 📫 YouCanConnectWithMeOnMail = Pandeyaakash1995@gmail.com 
-- or
-- 📫 YouCanConnectWithMeOnLinkedin = akp983 
+- 📫 YouCanConnectWithMeOnLinkedin = https://www.linkedin.com/in/akp983/
   
